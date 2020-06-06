@@ -1,0 +1,12 @@
+{
+    "name": "pFinal_M1A_SantiagoManzoni",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc", "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
